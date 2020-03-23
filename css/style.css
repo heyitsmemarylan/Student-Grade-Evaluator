@@ -1,0 +1,52 @@
+ body{
+     margin: 0;
+     padding: 0%;
+     border: 0;
+ }
+ .intro{
+     height: 100vh;
+     text-align: center;
+ }
+ .display-6{
+     font-size: 45px;
+     font-family: cursive;
+     color:white;
+     margin-top: 200px;
+ }
+
+ #enter {
+  
+    text-align: center;font-family: "Merriweather";
+    font-size: 13px;
+    letter-spacing: 2px;
+    display: inline-block;
+    color: whitesmoke;
+    padding: 10px 20px;
+    text-decoration: none;
+    text-transform: uppercase;
+    border-radius: 25px;
+    transition: 0.4s;
+    line-height: 1;
+    margin: 10px;
+    border: 4px solid rgb(124, 243, 243);
+    color: rgb(37, 55, 121);
+    margin-top: 30px;
+    position: relative;
+    text-align: center;
+    box-shadow: -2px -2px 8px rgb(212, 32, 92), -2px -2px 8px rgba(30, 185, 212, 0.5),
+    inset 2px 2px 4px rgba(26, 56, 228, 0.5);
+    cursor: pointer;
+
+ }
+ .btn:hover{
+     box-shadow: 0.5px 30px rgb(124, 243, 243) inset 0.5px 30px rgb(124, 243, 243),
+                 0.5px 30px rgb(124, 243, 243) inset 0.5px 30px rgb(124, 243, 243);
+ }
+ .display-table{
+     display: table;
+     background:linear-gradient(rgb(97, 187, 187), rgb(238, 124, 204));
+     width: 605px;
+     height: 100%;
+     display: inline-block;
+     margin-left: 760px;
+ }
